@@ -1,0 +1,17 @@
+/* Agrega aqui tu CSS */
+.primero{
+	border: 2px solid #EB8459;
+	height: 220px;
+	width: 200px;
+	padding: 15px 10px;
+	margin: 9px 2px;
+
+}
+
+.segundo{
+	border: 2px solid #EB8459;
+	height: 220px;
+	width: 200px;
+	padding: 15px 2px;
+	margin: 0px 2px;
+}
